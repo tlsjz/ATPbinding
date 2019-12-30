@@ -33,7 +33,7 @@ How to use:
   >python3 executable.py -f $HOME/ATPbinding/example/fasta -i 1EE1_A(example)
   
 4.about the output file:
-  there three colums in the output file including the residue id, prediction probability from ensemble predictor and prediction result from sequence template-based predictor. The residue id refers to
+  there are three colums in the output file including the residue id, prediction probability from ensemble predictor and prediction result from sequence template-based predictor. The residue id refers to
 the location of query residue in the input sequence, prediction probability refers to the probability of query residue classified as ATP-binding by the ensemble predictor and template-based prediction 
 result is a binary prediction 
   
